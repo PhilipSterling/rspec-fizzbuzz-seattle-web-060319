@@ -8,7 +8,7 @@ def fizzbuzz(int)
   if(int%5 == 0)
     string += "Buzz"
   end
-  if(sting == "")
+  if(string == "")
     return nil
   else
     return string
